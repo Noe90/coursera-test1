@@ -11,7 +11,7 @@ color: #61122F;
 }
 body{
 	background-color: #61122F;
-	color: white;
+	color: blue;
 }
 .glyphicon{
 	font-size: 30px;
@@ -20,7 +20,7 @@ body{
 
 .center{
 	width: 90%;
-	background-color: grey;
+	background-color: blue;
 
 }
 .container
