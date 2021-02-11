@@ -26,7 +26,8 @@ body{
 }
 .container
 {
-	background-color: grey;
+	background-color: black;
+	color: #61122F;
 }
 .text-center{
 	font-size: 30px;
